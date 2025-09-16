@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anthony Paculba</h1>
+<h1 align="center">Hi, I'm Anthony Paculba</h1>
 <h3 align="center">A current student athlete in my senior at Ouachita Baptist University graduating with a bachelors in computer science.</h3>
 
 - 🔭 I’m currently working on [a Registration Capstone Project](https://github.com/LinkedMonkeys/registration-reservation-system)
